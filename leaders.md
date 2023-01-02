@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Anton Bulavin](mailto:anton.bulavin@owasp.org)
+* [Denis Rybin](mailto:denis.rybin@owasp.org)
