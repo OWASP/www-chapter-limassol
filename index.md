@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP Limassol
 tags: example-tag
-region: Asia
+region: Europe
 meetup-group:
 
 ---
