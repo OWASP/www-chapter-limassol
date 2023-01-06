@@ -13,7 +13,7 @@ meetup-group: TBA
 
 Welcome to the OWASP [Limassol](https://en.wikipedia.org/wiki/Limassol) chapter home page. We are located in Cyprus, a Mediterranean island renowned since antiquity for its mineral wealth, exquisite wines and produce, and stunning landscapes, we are perfectly placed to take advantage of it all.
 
-![Cyprus](file:///Users/anton.bulavin/Documents/GitHub/www-chapter-limassol/_site/assets/images/AphroditesRock-Cyprus.jpg)
+![Cyprus](/assets/images/AphroditesRock-Cyprus.jpg)
 
 Be a part of the OWASP Limassol Chapter and join us in discovering the latest application security research and trends!
 Our meetings are free and open to anyone interested in learning more about application security. You can contribute to knowledge transfer through hands-on training, presentations of OWASP projects, and sharing SDLC knowledge. Whether you're a local student new to application security or an experienced professional seeking collaborators, we provide an engaging experience for everyone. Join us each month as we explore the cutting-edge of application security research and trends.
@@ -34,8 +34,8 @@ Will be announced really soon
 
 ## Powered and supported by
 
-![InDrive](file:///Users/anton.bulavin/Documents/GitHub/www-chapter-limassol/_site/assets/images/InDrive_Logo.svg.png){: .size}
-![Semrush](file:///Users/anton.bulavin/Documents/GitHub/www-chapter-limassol/_site/assets/images/Semrush%20Logo%20White.png){: .size-semrush}
+![InDrive](/assets/images/InDrive_Logo.svg.png){: .size}
+![Semrush](/assets/images/Semrush%20Logo%20White.png){: .size-semrush}
 
 <style>
 .size {
