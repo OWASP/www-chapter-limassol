@@ -2,7 +2,8 @@
 
 layout: col-sidebar
 title: OWASP Limassol
-tags: example-tag
+tags: events-tag pastevents-tag participation-tag sponsorship-tag
+level: 0
 region: Europe
 meetup-group: TBA
 
