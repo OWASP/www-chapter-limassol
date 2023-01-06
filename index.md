@@ -34,5 +34,11 @@ Will be announced really soon
 
 ## Powered and supported by
 
-![InDrive](file:///Users/anton.bulavin/Documents/GitHub/www-chapter-limassol/_site/assets/images/InDrive_Logo.svg.png)
-![Semrush](file:///Users/anton.bulavin/Documents/GitHub/www-chapter-limassol/_site/assets/images/semrush%20logotype%20rgb.png)
+![InDrive](file:///Users/anton.bulavin/Documents/GitHub/www-chapter-limassol/_site/assets/images/InDrive_Logo.svg.png){: .size}
+![Semrush](file:///Users/anton.bulavin/Documents/GitHub/www-chapter-limassol/_site/assets/images/semrush%20logotype%20rgb.png){: .size}
+
+<style>
+.size {
+    width: 60%; height: 30%;
+}
+</style>
