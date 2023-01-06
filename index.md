@@ -39,6 +39,6 @@ Will be announced really soon
 
 <style>
 .size {
-    width: 60%; height: 30%;
+    width: 50%; height: 20%;
 }
 </style>
