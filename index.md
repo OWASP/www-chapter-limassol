@@ -31,3 +31,8 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 
 Will be announced really soon
 {% include chapter_events.html group=page.meetup-group %}
+
+## Powered and supported by
+
+![InDrive](/assets/images/InDrive_Logo.svg.png)
+![Semrush](/assets/images/semrush%20logotype%20rgb.png)
