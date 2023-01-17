@@ -34,7 +34,7 @@ Will be announced really soon
 ## Powered and supported by
 
 ![InDrive](/assets/images/InDrive_Logo.svg.png){: .size}
-![Semrush](/assets/images/Semrush Logo White.png){: .size-semrush}
+![Semrush](/assets/images/Semrush-Logo-White.png){: .size-semrush}
 
 <style>
 .size {
