@@ -13,4 +13,4 @@ TBA
 
 ### Upcoming Meetup Events ###
 
-{% include chapter_events.html group=page.meetup-group %}
+<!-- {% include chapter_events.html group=page.meetup-group %} -->
