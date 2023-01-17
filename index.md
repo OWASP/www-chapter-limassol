@@ -31,16 +31,16 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 
 Will be announced really soon
 
-## Powered and supported by
+## Supported by
 
 ![InDrive](/assets/images/InDrive_Logo.svg.png){: .size}
-![Semrush](/assets/images/Semrush-Logo-White.png){: .size-semrush}
+![Semrush](/assets/images/Semrush.png){: .size-semrush}
 
 <style>
 .size {
     width: 50%; height: 20%;
 }
 .size-semrush {
-    width: 85%; height: 55%;
+    width: 50%; height: 20%;
 }
 </style>
