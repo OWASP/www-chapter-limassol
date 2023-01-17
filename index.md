@@ -38,9 +38,9 @@ Will be announced really soon
 
 <style>
 .size {
-    width: 50%; height: 20%;
+    width: 40%; height: 20%;
 }
 .size-semrush {
-    width: 50%; height: 20%;
+    width: 55%; height: 20%;
 }
 </style>
