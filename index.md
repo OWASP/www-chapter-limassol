@@ -30,7 +30,6 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 ---------------------
 
 Will be announced really soon
-{% include chapter_events.html group=page.meetup-group %}
 
 ## Powered and supported by
 
