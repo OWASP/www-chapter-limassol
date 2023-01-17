@@ -42,6 +42,6 @@ Will be announced really soon
     width: 50%; height: 20%;
 }
 .size-semrush {
-    width: 80%; height: 50%;
+    width: 85%; height: 55%;
 }
 </style>
