@@ -5,7 +5,7 @@ title: OWASP Limassol
 tags: events-tag pastevents-tag participation-tag sponsorship-tag
 level: 0
 region: Europe
-meetup-group: TBA
+meetup-group: owasp-limassol-meetup-group
 
 ---
 

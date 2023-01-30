@@ -5,6 +5,11 @@ layout:  null
 tab: true
 order: 1
 tags: events-tag
+
+region: Europe
+meetup-group: owasp-limassol-meetup-group
+country: Cyprus
+postal-code: 92618
 ---
 
 ## Events ##
@@ -24,3 +29,7 @@ We are also currently looking for people to present at the meetup. If you have a
 We can't wait to see you there!
 
 Join us in the [Telegram](https://t.me/+W1hEPzn4BOcwMTNi) channel and keep tuned.
+
+
+Register to the event via Meetup platform:
+{% include chapter_events.html group=page.meetup-group %}
