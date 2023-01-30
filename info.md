@@ -6,4 +6,4 @@
 
 ### Social Links
 
-* [Meetup](#)
+* [Meetup](https://www.meetup.com/owasp-limassol-meetup-group/)
