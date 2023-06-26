@@ -30,6 +30,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 ![InDrive](/assets/images/InDrive_Logo.svg.png){: .size}
 ![Semrush](/assets/images/Semrush.png){: .size-semrush}
+![BrainRocket](/assets/images/BRO_BrainRocket_line_Logo_green.png){: .size}
 
 <style>
 .size {
