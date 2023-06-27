@@ -9,7 +9,7 @@ tags: pastevents-tag
 
 ## Past Events
 
-You can find the full list of our past events [here](https://www.meetup.com/).
+You can find the full list of our past events [here](https://www.meetup.com/owasp-limassol-meetup-group/).
 
 
 <div class="talks">
