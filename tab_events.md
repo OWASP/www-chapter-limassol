@@ -1,15 +1,16 @@
 ---
+
 title: Events
 displaytext: Upcoming Events
 layout:  null
 tab: true
 order: 1
 tags: events-tag
-
 region: Europe
 meetup-group: owasp-limassol-meetup-group
 country: Cyprus
 postal-code: 92618
+
 ---
 
 ## Events ##
