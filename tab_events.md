@@ -29,7 +29,7 @@ We are also currently looking for people to present at the meetup. If you have a
 
 We are happy to announce that this event is fully covered by [Brain Rocket](https://www.brainrocket.com/) - the fastest-growing IT company in Cyprus, a passionate member of the local community, and a dedicated contributor to the development of the technological industry. BROs do not only support the OWASP meetup in Limassol, but open their own doors to host the event in their fantastic office. Shout out to the company for going the extra mile to make this event memorable and fulfilling for us all.
 
-![BrainRocket](/assets/images/BRO_BrainRocket_line_Logo_green.png){: .size}
+![BrainRocket](/www-chapter-limassol/assets/images/BRO_BrainRocket_line_Logo_green.png){: .size}
 
 We can't wait to see you there!
 Join us in the [Telegram](https://t.me/+W1hEPzn4BOcwMTNi) channel and keep tuned.
@@ -43,5 +43,5 @@ Join us in the [Telegram](https://t.me/+W1hEPzn4BOcwMTNi) channel and keep tuned
 }
 </style>
 
-Register to the event via Meetup platform:
+Register to the event via ![Meetup platform.](https://www.meetup.com/owasp-limassol-meetup-group/events/294232592/) 
 {% include chapter_events.html group=page.meetup-group %}
