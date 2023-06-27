@@ -43,5 +43,5 @@ Join us in the [Telegram](https://t.me/+W1hEPzn4BOcwMTNi) channel and keep tuned
 }
 </style>
 
-Register to the event via ![Meetup platform.](https://www.meetup.com/owasp-limassol-meetup-group/events/294232592/) 
+Register to the event via [Meetup platform.](https://www.meetup.com/owasp-limassol-meetup-group/events/294232592/) 
 {% include chapter_events.html group=page.meetup-group %}
