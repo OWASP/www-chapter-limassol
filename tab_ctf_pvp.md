@@ -15,7 +15,7 @@ Attention all cybersecurity aficionados and budding ethical hackers! The time ha
 
 The Qualifying CTF spanned across 3 days and encompassed 5 tasks covering a range of Information Security topics. We celebrated the achievements of 4 winners who scored the highest points within a brief timeframe. If you were part of this exciting journey, you can relish the memories of the competition that just took place.
 
-![CTF](/assets/images/ctf.jpg)
+![CTF](/www-chapter-limassol/assets/images/ctf.jpg)
 
 Let's congrats our Qualifying CTF winners: 
 * 1st place - suslikcs @LockeeLamora
@@ -38,10 +38,10 @@ There is tremendous respect from the organizers and from the island community to
 Following the conclusion of the online Qualifying CTF, participants engaged in an electrifying offline PvP battle that had pulses racing! Cybersecurity warriors had the chance to meet in person, exchange insights, build valuable connections, and enjoy friendly competition.
 
 The showdown kicked off as a segment of the OWASP Limassol Meetup 2.0 event. It consisted of 3 rounds featuring 3 tasks for the 4 winners of the Qualifying online CTF. These tasks spanned various categories, and participants needed to eliminate one category in each round based on the speed of their solutions 😀 The last individual to solve the task in each round would be eliminated. The battles were anticipated to last no more than 20 minutes each, with a demonstration screen and audience support adding to the excitement – a fantastic opportunity to gain a fan following.
-![PvP](/assets/images/pvp1.jpg)
+![PvP](/www-chapter-limassol/assets/images/pvp1.jpg)
 
 Ultimately, a solitary champion emerged from the offline battle, while the remaining participants earned boundless respect from the community for their spirited involvement.
-![PvP](/assets/images/pvp2.jpg)
+![PvP](/www-chapter-limassol/assets/images/pvp2.jpg)
 
 With a high respect to the winner of PvP Battles:
 [@exe_cute](https://www.linkedin.com/in/alexrudkovskii/) 
