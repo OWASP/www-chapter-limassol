@@ -18,8 +18,8 @@ The Qualifying CTF spanned across 3 days and encompassed 5 tasks covering a rang
 ![CTF](/www-chapter-limassol/assets/images/ctf.jpg)
 
 Let's congrats our Qualifying CTF winners: 
-* 1st place - suslikcs @LockeeLamora
-* 2nd place - exe-cut3 @exe_cute
+* 1st place - suslikcs [@LockeeLamora](https://www.linkedin.com/in/suslikcs/)
+* 2nd place - exe-cut3 [@exe_cute](https://www.linkedin.com/in/alexrudkovskii/)
 * 3rd place - silent @sil3ntz
 * 4th place - s1ck @s1ckCl1ck3r
 
