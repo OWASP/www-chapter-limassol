@@ -20,7 +20,7 @@ Time - 6pm - 11pm
 Where - [BrainRocket Office](https://maps.app.goo.gl/wK14Me1zaUszqkfy6?g_st=it).
 Register to the event via [Meetup platform.](https://www.meetup.com/owasp-limassol-meetup-group/events/297479557/) 
 
-# OWASP Limassol meetup 2.0 #
+# OWASP Limassol meetup 3.0 #
 
 Join us for an evening of cool new ideas and inspiring presentations from industry experts. We'll discuss the latest trends in web application security, share best practices and explore different approaches to building a secure online environment. So come on out and learn something new! We look forward to seeing you there!
 
