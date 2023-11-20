@@ -35,7 +35,6 @@ We prepared cool and tech-savvy gifts for speakers and active participants of ou
 
 Speaker pack:
 - OWASP T-shirt
-- backpack by BRO 
 - Raspberry Pi 4 kit
 
 Activities winner's pack:
