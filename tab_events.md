@@ -12,7 +12,7 @@ country: Cyprus
 postal-code: 92618
 
 ---
-
+![NY](/www-chapter-limassol/assets/images/illustration_NEW-15.png)
 ## Events ##
 
 Date - 15 Dec 2023 
