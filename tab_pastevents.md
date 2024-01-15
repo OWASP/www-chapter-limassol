@@ -68,6 +68,7 @@ You can find the full list of our past events [here](https://www.meetup.com/owas
 </i> by <a href="https://www.linkedin.com/in/andrewleonov/">Andrey Leonov</a></td>
             <td><a href="slides/"></a></td>
         </tr>
+        <td></td>
         <td><i>
 </i> <a href="https://www.meetup.com/owasp-limassol-meetup-group/events/297479557/">OWASP Limassol New Year</a></td>
             <td></td>
