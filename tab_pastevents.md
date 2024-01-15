@@ -68,6 +68,34 @@ You can find the full list of our past events [here](https://www.meetup.com/owas
 </i> by <a href="https://www.linkedin.com/in/andrewleonov/">Andrey Leonov</a></td>
             <td><a href="slides/"></a></td>
         </tr>
+        <td><i>
+</i> <a href="https://www.meetup.com/owasp-limassol-meetup-group/events/297479557/">OWASP Limassol New Year</a></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2023/12/15</td>
+            <td><i>Happy DDOS to you! Or how we saved the Christmas
+</i> by <a href="https://www.linkedin.com/in/annmuor">Ivan Agarkov</a></td>
+            <td><a href="slides/"></a></td>
+        </tr>
+        <tr>
+            <td>2023/12/15</td>
+            <td><i>How to find the balance between compliance and real security?
+</i> by <a href="https://www.linkedin.com/in/mariia-s-erokhina">Mariia Erokhina</a></td>
+            <td><a href="slides/"></a></td>
+        </tr>
+        <tr>
+            <td>2023/12/15</td>
+            <td><i>Observability for security. Deep dive into Osquery
+</i> by <a href="https://www.linkedin.com/in/artem-mishchenko-155082159/">Artem Mishchenko</a></td>
+            <td><a href="slides/"></a></td>
+        </tr>
+        <tr>
+            <td>2023/12/15</td>
+            <td><i>Beyond IT/Fintech: Between Good and Evil. EA/SA and CSO/ISO: To Hire or To Fire?
+</i> by <a href="https://www.linkedin.com/in/albert18041986/">Albert Fedoseev</a></td>
+            <td><a href="slides/"></a></td>
+        </tr>
     </table>
 </div>
 
