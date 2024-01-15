@@ -89,13 +89,13 @@ You can find the full list of our past events [here](https://www.meetup.com/owas
             <td>2023/12/15</td>
             <td><i>Observability for security. Deep dive into Osquery
 </i> by <a href="https://www.linkedin.com/in/artem-mishchenko-155082159/">Artem Mishchenko</a></td>
-            <td><a href="slides/Osquery_Owasp.pdf"></a></td>
+            <td><a href="slides/Osquery_Owasp.pdf"></a>Slides</td>
         </tr>
         <tr>
             <td>2023/12/15</td>
             <td><i>Beyond IT/Fintech: Between Good and Evil. EA/SA and CSO/ISO: To Hire or To Fire?
 </i> by <a href="https://www.linkedin.com/in/albert18041986/">Albert Fedoseev</a></td>
-            <td><a href="slides/OWASP_Hire_or_Fire.pdf"></a></td>
+            <td><a href="slides/OWASP_Hire_or_Fire.pdf">Slides</a></td>
         </tr>
     </table>
 </div>
