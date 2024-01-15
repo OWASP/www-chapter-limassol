@@ -89,7 +89,7 @@ You can find the full list of our past events [here](https://www.meetup.com/owas
             <td>2023/12/15</td>
             <td><i>Observability for security. Deep dive into Osquery
 </i> by <a href="https://www.linkedin.com/in/artem-mishchenko-155082159/">Artem Mishchenko</a></td>
-            <td><a href="slides/Osquery_Owasp.pdf"></a>Slides</td>
+            <td><a href="slides/Osquery_Owasp.pdf">Slides</a></td>
         </tr>
         <tr>
             <td>2023/12/15</td>
