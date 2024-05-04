@@ -12,42 +12,46 @@ country: Cyprus
 postal-code: 92618
 
 ---
-![NY](/www-chapter-limassol/assets/images/illustration_NEW-15.png)
+![NY](/www-chapter-limassol/assets/images/banner_orange.jpeg)
 ## Events ##
 
-Date - 15 Dec 2023 
+Date - 31 May 2024 
 
-Time - 6pm - 11pm
+Time - 6.30pm - 11pm
 
-Where - [BrainRocket Office](https://maps.app.goo.gl/wK14Me1zaUszqkfy6?g_st=it).
+Where - [Crowne Plaza Hotel](https://maps.app.goo.gl/LZ1HHqCfapG98aWo8).
 
-Register to the event via [Meetup platform.](https://www.meetup.com/owasp-limassol-meetup-group/events/297479557/) 
+Register to the event via [Meetup platform.](https://www.meetup.com/owasp-limassol-meetup-group/events/300819935/) 
 
-# OWASP Limassol meetup 3.0 #
+# OWASP Limassol meetup 2024-v1 #
 
 Join us for an evening of cool new ideas and inspiring presentations from industry experts. We'll discuss the latest trends in web application security, share best practices and explore different approaches to building a secure online environment. So come on out and learn something new! We look forward to seeing you there!
 
-We are also currently looking for people to present at the meetup. If you have a great idea, research or you would like to share your experience with the rest of the information security community, please submit a Call for Proposals before December 5, 2023. 
+We are also currently looking for people to present at the meetup. If you have a great idea or research, or you would like to share your experience with the rest of the information security community, please submit a Call for Proposals. 
 
-* [Submit CFP](https://forms.gle/WhdVRLPQ4e93agU6A)
+* [Submit CFP](https://docs.google.com/forms/d/1bGP4QmjDQ8hxfnhfEh0h0Wo0LJLj7eTpXi4h3gVQXMo/viewform?edit_requested=true)
 
-We prepared cool and tech-savvy gifts for speakers and active participants of our quizzes etc. 
+We prepared cool and tech-savvy gifts for speakers and active participants in our quizzes, etc. 
 
 Speaker pack:
+- Hamgeek HackRF One R9 and Portapack H2 Include 5 Antennas and Data Cable 1MHz-6GHz SDR Radio Unmounted Black
 - OWASP T-shirt
-- Raspberry Pi 4 kit
 
 Activities winner's pack:
-- lock picking tool 
-- Alfa USB adapter
+- NooElec 'Yard Stick One' USB Transceiver & 915MHz Antenne 
+- OWASP T-shirt
 
-We are happy to announce that this event is fully covered by [Brain Rocket](https://www.brainrocket.com/) - the fastest-growing IT company in Cyprus, a passionate member of the local community, and a dedicated contributor to the development of the technological industry. BROs do not only support the OWASP meetup in Limassol, but open their own doors to host the event in their fantastic office. Shout out to the company for going the extra mile to make this event memorable and fulfilling for us all.
+Quizzes winner's pack:
+- RTL-SDR Blog V3 R860 RTL2832U 1PPM TCXO HF Bias Tee SMA SDR with Dipole Antenna Kit 
+- OWASP T-shirt
 
-![BrainRocket](/www-chapter-limassol/assets/images/BRO_BrainRocket_line_Logo_green.png){: .size}
+We are happy to announce that this event is fully covered by [Semrush Inc.](https://semrush.com/) - the online visibility management and content marketing SaaS platform. Semrush is the only software which enables marketing professionals to build, manage, and measure campaigns across all channels to improve their online visibility. Semrush is your digital team member—your analytics buddy, your mentor, your safety net, and a compass to new markets. Shout out to the company for going the extra mile to make this event memorable and fulfilling for us all.
+
+![Semrush](/www-chapter-limassol/assets/images/Semrush.png){: .size}
 
 We can't wait to see you there!
 
-Register to the event via [Meetup platform.](https://www.meetup.com/owasp-limassol-meetup-group/events/297479557/) 
+Register to the event via [Meetup platform.](https://www.meetup.com/owasp-limassol-meetup-group/events/300819935/) 
 
 Join us in the [Telegram](https://t.me/+W1hEPzn4BOcwMTNi) channel and keep tuned.
 
