@@ -45,7 +45,9 @@ Quizzes winner's pack:
 - RTL-SDR Blog V3 R860 RTL2832U 1PPM TCXO HF Bias Tee SMA SDR with Dipole Antenna Kit 
 - OWASP T-shirt
 
-We are happy to announce that this event is fully covered by [Semrush Inc.](https://semrush.com/) - the online visibility management and content marketing SaaS platform. Semrush is the only software which enables marketing professionals to build, manage, and measure campaigns across all channels to improve their online visibility. Semrush is your digital team member—your analytics buddy, your mentor, your safety net, and a compass to new markets. Shout out to the company for going the extra mile to make this event memorable and fulfilling for us all.
+We are delighted to announce that this event is supported by [Semrush](https://careers.semrush.com/) – the online visibility management and content marketing SaaS platform.
+The company provides insights and solutions for businesses to build, manage, and measure campaigns across various marketing channels. Semrush, with nearly 108,000 paying customers, is headquartered in Boston and has offices in Limassol, Philadelphia, Trevose, Austin, Dallas, South Florida, Amsterdam, Barcelona, Belgrade, Berlin, Prague, Warsaw, and Yerevan.
+Shout out to the company for going the extra mile to make this event memorable and fulfilling for us all.
 
 ![Semrush](/www-chapter-limassol/assets/images/Semrush.png){: .size}
 
