@@ -22,80 +22,93 @@ You can find the full list of our past events [here](https://www.meetup.com/owas
         </tr>
         <tr>
             <td>2023/02/23</td>
-            <td><i>Use information about modern attacks to stay safe.
-</i> by <a href="https://krevetk0.medium.com/">Valeriy Shevchenko</a></td>
+            <td><i>Use information about modern attacks to stay safe.</i> by <a href="https://krevetk0.medium.com/">Valeriy Shevchenko</a></td>
             <td></td>
         </tr>
         <tr>
             <td>2023/02/23</td>
-            <td><i>How modern package managers can help you deal with a supply chain attack.
-</i> by <a href="https://www.linkedin.com/in/denis-r-b9621496/">Denis Rybin</a></td>
+            <td><i>How modern package managers can help you deal with a supply chain attack.</i> by <a href="https://www.linkedin.com/in/denis-r-b9621496/">Denis Rybin</a></td>
             <td><a href="slides/"></a></td>
         </tr>
         <tr>
             <td>2023/02/23</td>
-            <td><i>Security Engineering or Unpopular AppSec.
-</i> by <a href="http://www.linkedin.com/in/anatoli-m/">Anatoly Makovetsky</a></td>
+            <td><i>Security Engineering or Unpopular AppSec.</i> by <a href="http://www.linkedin.com/in/anatoli-m/">Anatoly Makovetsky</a></td>
             <td><a href="slides/20230223_OWASP_meetup_slides_AMakovetsky_clean_pdf_friendly_1.pdf">Slides</a></td>
         </tr>
         <tr>
             <td></td>
-            <td><i>
-</i> <a href="https://www.meetup.com/owasp-limassol-meetup-group/events/294232592/">OWASP Limassol 2.0</a></td>
+            <td><i></i> <a href="https://www.meetup.com/owasp-limassol-meetup-group/events/294232592/">OWASP Limassol 2.0</a></td>
             <td></td>
         </tr>
         <tr>
             <td>2023/07/28</td>
-            <td><i>How are Apples cracked?
-</i> by <a href="https://www.linkedin.com/in/maxim-gall-0a0533a3/">Maksim Gall</a></td>
+            <td><i>How are Apples cracked?</i> by <a href="https://www.linkedin.com/in/maxim-gall-0a0533a3/">Maksim Gall</a></td>
             <td><a href="slides/"></a></td>
         </tr>
         <tr>
             <td>2023/07/28</td>
-            <td><i>Malware in the life of SOC analyst: how to improve detection?
-</i> by <a href="https://www.linkedin.com/in/vladislav-bychenkov-09b845234/">Vlad Bychenkov</a></td>
+            <td><i>Malware in the life of SOC analyst: how to improve detection?</i> by <a href="https://www.linkedin.com/in/vladislav-bychenkov-09b845234/">Vlad Bychenkov</a></td>
             <td><a href="slides/"></a></td>
         </tr>
         <tr>
             <td>2023/07/28</td>
-            <td><i>SMS flood prevention.
-</i> by <a href="">Dmitry Vershinin</a></td>
+            <td><i>SMS flood prevention.</i> by <a href="">Dmitry Vershinin</a></td>
             <td><a href="slides/"></a></td>
         </tr>
         <tr>
             <td>2023/07/28</td>
-            <td><i>10255 Shades of k8s.
-</i> by <a href="https://www.linkedin.com/in/andrewleonov/">Andrey Leonov</a></td>
+            <td><i>10255 Shades of k8s.</i> by <a href="https://www.linkedin.com/in/andrewleonov/">Andrey Leonov</a></td>
             <td><a href="slides/"></a></td>
         </tr>
-        <td></td>
-        <td><i>
-</i> <a href="https://www.meetup.com/owasp-limassol-meetup-group/events/297479557/">OWASP Limassol New Year</a></td>
+        <tr>
+            <td></td>
+            <td><i></i> <a href="https://www.meetup.com/owasp-limassol-meetup-group/events/297479557/">OWASP Limassol New Year</a></td>
             <td></td>
         </tr>
         <tr>
             <td>2023/12/15</td>
-            <td><i>Happy DDOS to you! Or how we saved the Christmas
-</i> by <a href="https://www.linkedin.com/in/annmuor">Ivan Agarkov</a></td>
+            <td><i>Happy DDOS to you! Or how we saved the Christmas</i> by <a href="https://www.linkedin.com/in/annmuor">Ivan Agarkov</a></td>
             <td><a href="slides/"></a></td>
         </tr>
         <tr>
             <td>2023/12/15</td>
-            <td><i>How to find the balance between compliance and real security?
-</i> by <a href="https://www.linkedin.com/in/mariia-s-erokhina">Mariia Erokhina</a></td>
+            <td><i>How to find the balance between compliance and real security?</i> by <a href="https://www.linkedin.com/in/mariia-s-erokhina">Mariia Erokhina</a></td>
             <td><a href="slides/"></a></td>
         </tr>
         <tr>
             <td>2023/12/15</td>
-            <td><i>Observability for security. Deep dive into Osquery
-</i> by <a href="https://www.linkedin.com/in/artem-mishchenko-155082159/">Artem Mishchenko</a></td>
+            <td><i>Observability for security. Deep dive into Osquery</i> by <a href="https://www.linkedin.com/in/artem-mishchenko-155082159/">Artem Mishchenko</a></td>
             <td><a href="slides/Osquery_Owasp.pdf">Slides</a></td>
         </tr>
         <tr>
             <td>2023/12/15</td>
-            <td><i>Beyond IT/Fintech: Between Good and Evil. EA/SA and CSO/ISO: To Hire or To Fire?
-</i> by <a href="https://www.linkedin.com/in/albert18041986/">Albert Fedoseev</a></td>
+            <td><i>Beyond IT/Fintech: Between Good and Evil. EA/SA and CSO/ISO: To Hire or To Fire?</i> by <a href="https://www.linkedin.com/in/albert18041986/">Albert Fedoseev</a></td>
             <td><a href="slides/OWASP_Hire_or_Fire.pdf">Slides</a></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><i></i> <a href="https://www.meetup.com/owasp-limassol-meetup-group/events/300819935/">OWASP Limassol Chapter v4</a></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2024/05/31</td>
+            <td><i>ASPM - story about unicorns, sneaky business and unexpected decisions</i> by <a href="https://www.linkedin.com/in/ivan-elkin/">Ivan Elkin</a></td>
+            <td><a href="slides/ASPM-OWASP.pdf">Slides</a></td>
+        </tr>
+        <tr>
+            <td>2024/05/31</td>
+            <td><i>DHIS2: Building Security For An Open-Source Project</i> by <a href="https://markevich.org/">Michael Markevich</a></td>
+            <td><a href="slides/2024-michael-markevich-owasp-limassol.pdf">Slides</a></td>
+        </tr>
+        <tr>
+            <td>2024/05/31</td>
+            <td><i>Content Blocking system in Cyprus</i> by <a href="">Dmitrii Stepul</a></td>
+            <td><a href="slides/presa_owasp.pdf">Slides</a></td>
+        </tr>
+        <tr>
+            <td>2024/05/31</td>
+            <td><i>Impossible security - solving tasks with no right solution</i> by <a href="https://sergeybe.love/">Sergey Belov</a></td>
+            <td><a href="slides/OWASP-Belov.pdf">Slides</a></td>
         </tr>
     </table>
 </div>
