@@ -7,7 +7,41 @@ order: 3
 tags: pastevents-tag
 ---
 
-## CTF
+## CTF 2024
+
+We are thrilled to announce the results of the recent OWASP Limassol Meetup, where participants engaged in a challenging and exhilarating LLM application hacking activity. The event was a resounding success, showcasing the remarkable skills and talents of our community members.
+
+Event Highlights Recap:
+
+* LLM Application Challenge: Participants tested their skills by bypassing security mechanisms and exploiting basic LLM misconfigurations to uncover a secret string. The challenge featured multiple levels of increasing difficulty, culminating in a series of web exploitation tasks.
+
+Timeline and Winners:
+
+LLM Application Scoreboard
+![LLM](/www-chapter-limassol/assets/images/llm.jpeg)
+
+Let's congrats our Qualifying LLM App winners: 
+* 1st place - Valery T [@VRico315](https://www.linkedin.com/in/valery-tyukhmenev/)
+* 2nd place - Vadim Efremov [@Nightfs]
+* 3rd place - Roman Ponomarev [@kowhatu]
+* 4th place - Andrew Grigorev @eigrad
+  
+![LLM](/www-chapter-limassol/assets/images/pvp-1.jpg)
+
+Offline PvP Hackers Battle: 
+
+The top performers in the LLM app were invited to an exclusive offline hackers’ battle. This intense competition took place after the talks at OWASP Limassol Meetup v4 and consisted of three rounds. Each round tested the participants’ speed and expertise, with the last one to solve the task in each round being eliminated.
+
+![LLM](/www-chapter-limassol/assets/images/pvp-2.jpg)
+
+With a high respect to the winner of PvP Battles:
+Valery T [@VRico315](https://www.linkedin.com/in/valery-tyukhmenev/)
+
+Huge kudos to all the other players as well!
+We are looking forward to seeing you next time =) 
+
+---------------------
+## CTF 2023
 
 🔐 The recently concluded OWASP Limassol Qualifying CTF brought together cyber enthusiasts for an exhilarating PvP experience!
 
