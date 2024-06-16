@@ -102,7 +102,7 @@ You can find the full list of our past events [here](https://www.meetup.com/owas
         </tr>
         <tr>
             <td>2024/05/31</td>
-            <td><i>Content Blocking system in Cyprus</i> by <a href="">Dmitrii Stepul</a></td>
+            <td><i>Content Blocking system in Cyprus</i> by <a href="www.linkedin.com/in/dimastepik">Dmitrii Stepul</a></td>
             <td><a href="slides/presa_owasp.pdf">Slides</a></td>
         </tr>
         <tr>
