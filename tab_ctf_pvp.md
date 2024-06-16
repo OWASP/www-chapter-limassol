@@ -13,7 +13,7 @@ We are thrilled to announce the results of the recent OWASP Limassol Meetup, whe
 
 Event Highlights Recap:
 
-* LLM Application Challenge: Participants tested their skills by bypassing security mechanisms and exploiting basic LLM misconfigurations to uncover a secret string. The challenge featured multiple levels of increasing difficulty, culminating in a series of web exploitation tasks.
+* LLM Application Challenge by [TODO: security](https://todo.security/): Participants tested their skills by bypassing security mechanisms and exploiting basic LLM misconfigurations to uncover a secret string. The challenge featured multiple levels of increasing difficulty, culminating in a series of web exploitation tasks.
 
 Timeline and Winners:
 
@@ -37,7 +37,7 @@ The top performers in the LLM app were invited to an exclusive offline hackersâ€
 With a high respect to the winner of PvP Battles:
 [Valery T](https://www.linkedin.com/in/valery-tyukhmenev/)
 
-Huge kudos to all the other players as well!
+Props to [TODO: security](https://todo.security/) for preparing the challenges for our participants, and huge kudos to all the players as well!
 We are looking forward to seeing you next time =) 
 
 ---------------------
