@@ -21,7 +21,7 @@ LLM Application Scoreboard
 ![LLM](/www-chapter-limassol/assets/images/llm.jpeg)
 
 Let's congrats our Qualifying LLM App winners: 
-* 1st place - Valery T [@VRico315](https://www.linkedin.com/in/valery-tyukhmenev/)
+* 1st place - [Valery T](https://www.linkedin.com/in/valery-tyukhmenev/)
 * 2nd place - Vadim Efremov [@Nightfs]
 * 3rd place - Roman Ponomarev [@kowhatu]
 * 4th place - Andrew Grigorev @eigrad
@@ -35,7 +35,7 @@ The top performers in the LLM app were invited to an exclusive offline hackersâ€
 ![LLM](/www-chapter-limassol/assets/images/pvp-2.jpg)
 
 With a high respect to the winner of PvP Battles:
-Valery T [@VRico315](https://www.linkedin.com/in/valery-tyukhmenev/)
+[Valery T](https://www.linkedin.com/in/valery-tyukhmenev/)
 
 Huge kudos to all the other players as well!
 We are looking forward to seeing you next time =) 
