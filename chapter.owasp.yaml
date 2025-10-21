@@ -1,0 +1,26 @@
+leaders:
+  - name: Anton Bulavin
+    email: anton.bulavin@owasp.org
+  - name: Denis Rybin
+    email: denis.rybin@owasp.org
+  - name: Anatolii Makovetckii
+    email: anatolii.makovetckii@owasp.org
+location:
+  country: Cyprus
+  country_code: CY
+  region: Limassol District
+  city: Limassol
+  latitude: 34.6852901
+  longitude: 33.0332657
+meetup_group: owasp-limassol-meetup-group
+name: OWASP Limassol
+repositories:
+  - name: www-chapter-limassol
+    url: https://github.com/OWASP/www-chapter-limassol
+    description: OWASP Foundation Web Repository
+tags:
+  - events-tag
+  - pastevents-tag
+  - participation-tag
+  - sponsorship-tag
+website: https://owasp.org/www-chapter-limassol
